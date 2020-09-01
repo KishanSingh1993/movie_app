@@ -14,7 +14,6 @@ A movie app to showcase flutter UI.
 
 ## Created & Maintained By
 
-- Kishan Singh
 [Kishan Singh](https://github.com/KishanSingh1993)
 ([Instagram](https://www.instagram.com/amazing_kishan))
 
