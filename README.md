@@ -16,6 +16,8 @@ A movie app to showcase flutter UI.
 
 - Kishan Singh
 
+([Instagram](https://www.instagram.com/amazing_kishan))
+
 ## Getting Started
 
 **Note:** Make sure your Flutter environment is setup.
